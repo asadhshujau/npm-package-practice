@@ -5,9 +5,9 @@ practicing to make an npm package
 
 ## Installation
 ```sh
-npm install mypluralize --save
-yarn add mypluralize
-bower install pluralize --save
+npm install @asadhshujau/npm-package-practice --save
+yarn add @asadhshujau/npm-package-practice
+bower install @asadhshujau/npm-package-practice --save
 ```
 ## Usage
 ### Javascript
