@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/asadhshujau/npm-package-practice.svg?branch=master)](https://travis-ci.org/asadhshujau/npm-package-practice)
+[![Coverage Status](https://coveralls.io/repos/github/asadhshujau/npm-package-practice/badge.svg?branch=master)](https://coveralls.io/github/asadhshujau/npm-package-practice?branch=master)
 # npm-package-practice
 practicing to make an npm package
 
