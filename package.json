@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-practice",
+  "name": "@asadhshujau/npm-package-practice",
   "version": "1.0.0",
   "description": "practicing to make an npm package",
   "main": "dist/index.js",
